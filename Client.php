@@ -1,6 +1,6 @@
 <?php
 
-namespace mastercardmatch;
+namespace MasterCardMatch;
 
 class Client {
 	private $endpoint;
